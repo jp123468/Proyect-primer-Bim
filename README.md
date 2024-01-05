@@ -16,6 +16,9 @@ Hemos documentado el proceso de desarrollo en un video, detallando los pasos y d
 ## Webhosting
 Hemos subido nuestra aplicacion a una Webhosting con firebase. Puedes ir a ver [aqui](http://gelocation-e879e.web.app).
 
+## Apk 
+Pzra ue puedes descargar la apk prueba [aqui](https://drive.google.com/file/d/1BmlC51nraJ8R0eniR3dxAz5iHPx228ny/view?usp=sharing)
+
 ## Instrucciones para Ejecutar el Proyecto
 1. **Instalación de Dependencias:**
    Asegúrate de tener Node.js instalado. Luego, instala Ionic y las dependencias del proyecto.
