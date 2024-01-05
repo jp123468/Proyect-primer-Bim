@@ -13,6 +13,9 @@ Hemos creado un video tutorial que explica cómo utilizar la aplicación. Puedes
 ## Proceso de Desarrollo
 Hemos documentado el proceso de desarrollo en un video, detallando los pasos y decisiones tomadas. Puedes visualizar el proceso [aquí](https://youtu.be/tLRNd4dsE-s).
 
+## Webhosting
+Hemos subido nuestra aplicacion a una Webhosting con firebase. Puedes ir a ver [aqui](http://gelocation-e879e.web.app).
+
 ## Instrucciones para Ejecutar el Proyecto
 1. **Instalación de Dependencias:**
    Asegúrate de tener Node.js instalado. Luego, instala Ionic y las dependencias del proyecto.
